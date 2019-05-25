@@ -1,0 +1,6 @@
+#Listing the files and directories in the current directory
+
+$ ls 
+#Listing the files and directories in the current directory with hidden files and their permission values
+$ ls -alh
+ 
