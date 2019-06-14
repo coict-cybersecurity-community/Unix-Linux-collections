@@ -3,4 +3,13 @@
 $ ls 
 #Listing the files and directories in the current directory with hidden files and their permission values
 $ ls -alh
+
+#Changinng the permission of the files or directories
+
+$ [sudo] chmod xxx <file_name>
+$ [sudo] chmod -R  <dir_name>
+
+#Changinng the ownership of files 0r directories
+$ [sudo] chown $USER:$[group] <file_name>
+$ [sudo] chown $USER:$[group] -R <dir_name>
  
