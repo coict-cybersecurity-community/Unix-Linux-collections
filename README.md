@@ -14,5 +14,5 @@ system.
 
 
 
-# Enjoy w with us 
+# Enjoy with us 
 Please dont hestate to raise an issue if any or give contributions to our repository. 
